@@ -1,0 +1,15 @@
+# Ignore virtual environment folder
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore environment variable files
+.env
+
+# Ignore SQLite databases or logs (if any)
+*.db
+
+# Ignore macOS-specific files
+.DS_Store
